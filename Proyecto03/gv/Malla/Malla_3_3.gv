@@ -1,0 +1,23 @@
+digraph grafoMalla_m_3_n_3 {
+"nodo_1 (inf)";
+"nodo_2 (inf)";
+"nodo_3 (inf)";
+"nodo_4 (inf)";
+"nodo_5 (inf)";
+"nodo_6 (inf)";
+"nodo_7 (inf)";
+"nodo_8 (inf)";
+"nodo_9 (inf)";
+"nodo_1 (inf)" -> "nodo_2 (inf)" [label=35 weight=35];
+"nodo_1 (inf)" -> "nodo_4 (inf)" [label=31 weight=31];
+"nodo_2 (inf)" -> "nodo_3 (inf)" [label=37 weight=37];
+"nodo_2 (inf)" -> "nodo_5 (inf)" [label=17 weight=17];
+"nodo_3 (inf)" -> "nodo_6 (inf)" [label=6 weight=6];
+"nodo_4 (inf)" -> "nodo_5 (inf)" [label=37 weight=37];
+"nodo_4 (inf)" -> "nodo_7 (inf)" [label=2 weight=2];
+"nodo_5 (inf)" -> "nodo_6 (inf)" [label=32 weight=32];
+"nodo_5 (inf)" -> "nodo_8 (inf)" [label=3 weight=3];
+"nodo_6 (inf)" -> "nodo_9 (inf)" [label=24 weight=24];
+"nodo_7 (inf)" -> "nodo_8 (inf)" [label=7 weight=7];
+"nodo_8 (inf)" -> "nodo_9 (inf)" [label=33 weight=33];
+}
