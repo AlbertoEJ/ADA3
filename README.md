@@ -56,52 +56,28 @@ help(guardar_grafo)
 [malla1002]: https://github.com/AlbertoEJ/ADA3/blob/main/Proyecto03/gv/Malla/Malla_25_4_Dijkstra.png
 
 
-### Modelo de malla de 500 nodos
-#### Generado
-![Grafo en malla de 500 nodos (10x50)][malla500]
-#### Calculado con BFS
-![Grafo en malla calculado con BFS][malla5002]
-#### Calculado con DFS Iterativo
-![Grafo en malla calculado con DFS iterativo][malla5003]
-#### Calculado con DFS Recursivo
-![Grafo en malla calculado con DFS recursivo][malla5004]
-
-[malla500]: https://github.com/AlbertoEJ/ADA2/blob/main/Proyecto_02/archivos_gv_e_imagenes/Mallas/500%20nodos/grafo_malla_500_nodos.png
-[malla5002]: https://github.com/AlbertoEJ/ADA2/blob/main/Proyecto_02/archivos_gv_e_imagenes/Mallas/500%20nodos/grafo_malla_500_nodos_bfs.png
-[malla5003]: https://github.com/AlbertoEJ/ADA2/blob/main/Proyecto_02/archivos_gv_e_imagenes/Mallas/500%20nodos/grafo_malla_500_nodos_dfs_i.png
-[malla5004]: https://github.com/AlbertoEJ/ADA2/blob/main/Proyecto_02/archivos_gv_e_imagenes/Mallas/500%20nodos/grafo_malla_500_nodos_dfs_r.png
-
-### Modelo Erdos y Renyi de 30 nodos y 400 aristas
+### Modelo Erdos y Renyi de pocos nodos
 
 #### Generado
 ![Grafo erdos renyi 30 nodos y 400 aristas][erdos1]
-#### Calculado con BFS
-![Grafo erdos renyi calculado con BFS][erdos2]
-#### Calculado con DFS iterativo
-![Grafo erdos renyi calculado con DFS iterativo][erdos3]
-#### Calculado con DFS recursivo
-![Grafo erdos renyi calculado con DFS recursivo][erdos4]
+#### Calculado con Dijkstra
+![Grafo erdos renyi calculado con Dijkstra][erdos2]
 
-[erdos1]: https://github.com/AlbertoEJ/ADA2/blob/main/Proyecto_02/archivos_gv_e_imagenes/Erdos_Renyi/30/grafo_erdos_30_400.png
-[erdos2]: https://github.com/AlbertoEJ/ADA2/blob/main/Proyecto_02/archivos_gv_e_imagenes/Erdos_Renyi/30/grafo_erdos_30_400_bfs.png
-[erdos3]: https://github.com/AlbertoEJ/ADA2/blob/main/Proyecto_02/archivos_gv_e_imagenes/Erdos_Renyi/30/grafo_erdos_30_400_dfs_i.png
-[erdos4]: https://github.com/AlbertoEJ/ADA2/blob/main/Proyecto_02/archivos_gv_e_imagenes/Erdos_Renyi/30/grafo_erdos_30_400_dfs_r.png
 
-### Modelo Erdos y Renyi de 100 nodos y 1500 aristas
+[erdos1]: https://github.com/AlbertoEJ/ADA3/blob/main/Proyecto03/gv/ErdosRenyi/ErdosRenyi_20_30.png
+[erdos2]: https://github.com/AlbertoEJ/ADA3/blob/main/Proyecto03/gv/ErdosRenyi/ErdosRenyi_20_30_Dijkstra.png
+
+
+### Modelo Erdos y Renyi de muchos nodos
 
 #### Generado
 ![Grafo erdos renyi 100 nodos y 1500 aristas][erdos100]
-#### Calculado con BFS
-![Grafo erdos renyi calculado con BFS][erdos1002]
-#### Calculado con DFS iterativo
-![Grafo erdos renyi calculado con DFS iterativo][erdos1003]
-#### Calculado con DFS recursivo
-![Grafo erdos renyi calculado con DFS recursivo][erdos1004]
+#### Calculado con Dijkstra
+![Grafo erdos renyi calculado con Dijkstra][erdos1002]
 
-[erdos100]: https://github.com/AlbertoEJ/ADA2/blob/main/Proyecto_02/archivos_gv_e_imagenes/Erdos_Renyi/100/grafo_erdos_100_1500.png
-[erdos1002]: https://github.com/AlbertoEJ/ADA2/blob/main/Proyecto_02/archivos_gv_e_imagenes/Erdos_Renyi/100/grafo_erdos_100_1500_bfs.png
-[erdos1003]: https://github.com/AlbertoEJ/ADA2/blob/main/Proyecto_02/archivos_gv_e_imagenes/Erdos_Renyi/100/grafo_erdos_100_1500_dfs_i.png
-[erdos1004]: https://github.com/AlbertoEJ/ADA2/blob/main/Proyecto_02/archivos_gv_e_imagenes/Erdos_Renyi/100/grafo_erdos_100_1500_dfs_r.png
+
+[erdos100]: https://github.com/AlbertoEJ/ADA3/blob/main/Proyecto03/gv/ErdosRenyi/ErdosRenyi_100_100.png
+[erdos1002]: https://github.com/AlbertoEJ/ADA3/blob/main/Proyecto03/gv/ErdosRenyi/ErdosRenyi_100_100_Dijkstra.png
 
 ### Modelo Erdos y Renyi de 500 nodos y 4000 aristas
 
